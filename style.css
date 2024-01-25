@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.background{
+    background-color: #7483bddc;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background-color: #e3a393e1;
+    border-bottom: 1.75px solid rgb(194, 193, 193);
+}
+.sec{
+    width: 400px;
+    height: 400px;
+}
+.sec1 img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-top: 35px;
+    margin-left: 110px;
+    display:inline-block;
+    justify-content: center;
+    text-align: center;
+}
+.box1{
+    height: 28px;
+    width: 172px;
+    background-color: rgba(18, 109, 18, 0.982);
+    color: white;
+    margin-left: 600px;
+    /* margin-top: 100px; */
+    padding: 10px;
+}
+h1{
+    margin-left: 600px;
+}
+p{
+        margin-left: 600px;
+}
+button{
+    height: 38px;
+    width: 150px;
+    background-color: rgba(236, 173, 15, 0.836);
+    margin-left: 600px;
+}
+.container2{
+    border: 2.25px solid rgb(25, 112, 170);
+    width: 550px;
+    height: 90px;
+    margin-left: 400px;
+}
+.border2{
+    border: 1.25px solid rgb(194, 193, 193);
+}
+/* .discountvoucher{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(210, 208, 208);
+    padding-left: 45px;
+}
+.freshhealthyfood{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(210, 208, 208);
+}
+.fasthomedelivry{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(210, 208, 208);
+} */
+.box2{
+    height: 24px;
+    width: 72px;
+    background-color: rgba(18, 109, 18, 0.699);
+    color: white;
+    margin-left: 400px;
+    padding: 5px;
+}
+h2{
+    margin-left: 342px; 
+}
+
+.menu{
+    height: 967px;
+    width: 555px;
+    background-color: rgba(201, 197, 197, 0.12);
+    margin-left: 85px;
+}
+.menupic1{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+    display: flex;
+}
+.menupic2{
+    height: 350px;
+    width: 240px;
+    border-radius: 6px;
+    display: flex;
+}
+.menupic3{
+    height: 230px;
+    width: 230px;
+    border-radius: 6px;
+    display: flex;
+}
+.menupic4{
+    height:  230px;
+    width:  230px;
+    border-radius: 6px;
+    display: flex;
+}
+
+
+footer{
+    height: 400px;
+    width: 100%;
+    background-color: rgba(255, 235, 205, 0.787);
+}
+footer img{
+    margin-left: 40px;
+}
+/* footer li h2{
+    margin-right: 200px;
+} */
+li{
+    margin-left: 50px;
+}
+
+
+
+.logo{
+    width: 120px;
+    height: 53px;
+    margin-left: 50px;
+
+}
